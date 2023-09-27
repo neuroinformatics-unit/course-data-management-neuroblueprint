@@ -1,0 +1,1 @@
+Due to a wire detachment, the data was lost of this subject.
