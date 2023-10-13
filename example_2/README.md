@@ -15,7 +15,7 @@ sub-01 - control
 sub-02 - experimental
 sub-03 - experimental
 sub-04 - control
-sub-06 - experimental
+sub-07 - experimental
 
 Due to a malfunction in the probe, sub-05 and sub-06 were excluded from all analysis.
 
